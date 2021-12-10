@@ -88,19 +88,19 @@ DoggyMatch has 3 specific features which make it stand out!  The first and most 
 
 ### Launch
 
-![Launch Feature](https://git.linux.iastate.edu/cs309/fall2021/3_rk_1/-/raw/45-git-redesign/Design/Launch.png)
+![Launch Feature]()
 
 The Launch page is elegently designed to allow users the flexibility of choice between continuing in their matching journey and starting fresh!
 
 ### Sign In
 
-![Sign In Feature](https://git.linux.iastate.edu/cs309/fall2021/3_rk_1/-/raw/45-git-redesign/Design/Login.png)
+![Sign In Feature]()
 
 Sign in and revisit past memories with matches and make some future ones with more dogs.  Making the choice to sign in is not a final decision!  Use the Sign Up button to start again!
 
 ### Sign Up
 
-![Sign Up Feature](https://git.linux.iastate.edu/cs309/fall2021/3_rk_1/-/raw/45-git-redesign/Design/?)
+![Sign Up Feature]()
 
 **Signing Up as a Dog Owner**
 _Dog Owners are given a few pages of selections and entries.  You'll be asked to provide basic user information to generate a profile like all user types.  If you signify yourself as an owner, we'll ask for some more information about you for safety purposes when meeting with other owners.  These can be retrieved by contacting [_DoggyMatch Customer Service_]().  Then we will ask for information about your dog.  Fill out as much as you can or want, these will influence the preferences of others and allow you to be prioritized on their Doggy-MatchFinder.  Finally, set your preferences so you can find the right dogs for your lonely pup._
@@ -113,7 +113,7 @@ _Contact DoggyMatch to be added to our Administrative Service.  These users are 
 
 ### Match
 
-![Match Feature](https://git.linux.iastate.edu/cs309/fall2021/3_rk_1/-/raw/45-git-redesign/Design/?)
+![Match Feature]()
 
 The Match feature allows for owners to find dogs compatible with theirs.  They can view other profiles and if both users decide that dog will be a match, they will be able to chat.
 
@@ -125,7 +125,7 @@ _Match with other owners and set up playdates for your dog through our chat._
 
 ### Chat
 
-![Match Feature](https://git.linux.iastate.edu/cs309/fall2021/3_rk_1/-/raw/45-git-redesign/Design/?)
+![Match Feature]()
 
 Chat with your matches!  If you and the other owner liked each others dogs, then a chat will automatically be generated.  When the chat is generated, you can set up a playdate and add it to your calendar!
 
@@ -133,7 +133,7 @@ Chat with your matches!  If you and the other owner liked each others dogs, then
 
 ### Profile
 
-![Profile Feature](https://git.linux.iastate.edu/cs309/fall2021/3_rk_1/-/raw/45-git-redesign/Design/?)
+![Profile Feature]()
 
 View your profile or modify it.
 
@@ -184,7 +184,9 @@ About feature `TODO`
     <documentation_link>
 ```
 
-### JavaDoc [_**link to javadocs**_]()
+### JavaDoc for Frontend [_**link to javadocs**_](https://github.com/justahoot/DoggyMatch/tree/main/Documents/javaDocsFrontend/docs)
+
+### JavaDoc for Backend [_**link to javadocs**_](https://github.com/justahoot/DoggyMatch/tree/main/Documents/javaDocsBackend/)
 
 -----------------------------------------------------
 ###### BE Documentation by Diego Saavedra
