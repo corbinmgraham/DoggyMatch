@@ -8,7 +8,7 @@
 
 **DoggyMatch**
 
-![Welcome to DoggyMatch!](https://git.linux.iastate.edu/cs309/fall2021/3_rk_1/-/raw/main/Design/DoggyMatchWelcome.png)
+![Welcome to DoggyMatch!](https://github.com/justahoot/DoggyMatch/raw/main/Design/DoggyMatchWelcome.png)
 
 ## Team
 
@@ -54,11 +54,11 @@
 
 # **DoggyMatch**
 
-![DoggyMatch Title](https:/cs309/fall2021/3_rk_1/-/raw/45-git-redesign/Design/Doggy%20Match%20Official%20Title) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![DoggyMatch Icon](https:/cs309/fall2021/3_rk_1/-/raw/45-git-redesign/Design/DoggyMatch_Icon_128.png?inline=false) ©DoggyMatch
+![DoggyMatch Title](https://github.com/justahoot/DoggyMatch/raw/main/Design/Doggy%20Match%20Official%20Title) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![DoggyMatch Icon](https://github.com/justahoot/DoggyMatch/raw/main/Design/DoggyMatch_Icon_128.png) ©DoggyMatch
 
 ### _**DoggyMatch:** Playdates for dogs!_
 
-### _Download [here.](https:/cs309/fall2021/3_rk_1/-/raw/)_
+### _Download [here.](https://github.com/justahoot/DoggyMatch)_
 
 ## About Features
 
