@@ -1,66 +1,16 @@
-# 3_RK_1 DoggyMatch Submission Edition
-
-**DoggyMatch** Playdates for dogs!  Connect with other owners on our safe and friendly platform to find the perfect playdate for your dog.
-
-**COM S 309 Group 3_RK_1:** Software Development Practices: an introduction to Git, Springboot, Android Studio, Mockito Testing.
-
-**Project Outcomes:** Learning to use tools useful to software development experience.
-
-**DoggyMatch**
+# DoggyMatch
 
 ![Welcome to DoggyMatch!](https://github.com/justahoot/DoggyMatch/raw/main/Design/DoggyMatchWelcome.png)
 
-## Team
+**Playdates for dogs!** Browse our simple UI and find the perfect match for your dog.  This is a safe and friendly platform where owners can connect and find pets just like theirs.
 
-### **Corbin Graham**
+**Not a dog owner?  No problem!** Become a moderator and browse our cute friends without needing one of your own.  You will also have the ability to report accounts for administrators to review and remove.
 
-##### Frontend Developer, Product Design
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Experience:** COM S 227, COM S 228
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Classification:** Sophomore
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Outcomes:** Git, JSON, Mockito, Android Studio, API Libraries, Design Patterns
-
-### **Mark Gores**
-
-##### Frontend Developer, Connection with Data Base
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Experience:** COM S 227, COM S 228, COM S 311
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Classification:** Junior
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Outcomes:** Git, JSON, Android Studio, API Libraries, Mockito
-
-### **Diego Saavedra**
-
-##### Backend Developer, Algorithms
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Experience:** COM S 227, COM S 228
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Classification:** Sophomore
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Outcomes:** Git, Spring boot, Mockito
-
-### **Peyton Arbuckle**
-
-##### Backend Developer, MySQL and REST
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Experience:** COM S 227, COM S 228
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Classification:** Sophomore
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Outcomes:** Spring boot, Mockito, WebSockets
-
-# **DoggyMatch**
+# About
 
 ![DoggyMatch Title](https://github.com/justahoot/DoggyMatch/raw/main/Design/Doggy%20Match%20Official%20Title) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![DoggyMatch Icon](https://github.com/justahoot/DoggyMatch/raw/main/Design/DoggyMatch_Icon_128.png) ©DoggyMatch
 
-### _**DoggyMatch:** Playdates for dogs!_
-
-### _Download [here.](https://github.com/justahoot/DoggyMatch)_
-
-## About Features
+## _**DoggyMatch:** Playdates for dogs!_
 
 **DoggyMatch** is a way to connect with other owners on our safe and friendly platform to find the perfect playdate for your dog. Using our DoggyMatch algorithm, you'll find the perfect dog.  Sign up and sign in to match with other users and send them a chat to plan a play date.
 
@@ -70,21 +20,20 @@ DoggyMatch has 3 specific features which make it stand out!  The first and most 
 
 **This app is for Dog Owners and Dog Lovers!** Anybody who cares about dogs will easily love this new app that allows them to see dogs so easily!  DoggyMatch is one of a kind.  There is no other app available to match dogs for playdates.  This exclusivity has allowed us to give users the first look at what a playdate experience should be.
 
-### Installation
+## Installation
 
-```
-    git clone https://git.linux.iastate.edu/cs309/fall2021/3_rk_1/
-    sudo apt android_studio
-```
-
-**How to install**
+**DoggyMatch**
 * Clone the repository
 * Download Android Studio
 * Download Android Emulator
     * Set your emulator to Nexus 5
 * Build and run project
 
-## Frontend
+**Connecting to Server**
+* After cloning the repository, you may access the server files in /Backend
+* Compile and run the server but change the route (In DoggyMatch) to localhost.
+
+## Features
 
 ### Launch
 
@@ -137,61 +86,66 @@ Chat with your matches!  If you and the other owner liked each others dogs, then
 
 View your profile or modify it.
 
-## Backend
-
-### Sign In
-The sign in feature allows the frontend to post email and password to the server and start using the app.
-**Feature Title**
-
-```java
-    // Source Code for features
-```
-
-About feature `TODO`
-
-### Sign Up
-The sign up feature allows the frontend to post user information such as owner info, dog info, and photo that will be saved to the MySQL database.
-```java
-    // Source Code for features
-```
-
-About feature `TODO`
-
-### Match
-
-**Feature Title**
-
-```java
-    // Source Code for features
-```
-
-About feature `TODO`
-
-### Chat
-
-**Feature Title**
-The websocket server on the backend allows the android app to communicate with the server and send messages between users.
-
-```java
-    // Source Code for features
-```
-
-About feature `TODO`
-
 ## Documentation
 
-```
-    <documentation_link>
-```
+JavaDoc for [_**Frontend**_](https://github.com/corbinmgraham/DoggyMatch/tree/main/Documents/javaDocsFrontend/docs)
 
-### JavaDoc for Frontend [_**link to javadocs**_](https://github.com/justahoot/DoggyMatch/tree/main/Documents/javaDocsFrontend/docs)
+JavaDoc for [_**Backend**_](https://github.com/corbinmgraham/DoggyMatch/tree/main/Documents/javaDocsBackend/)
 
-### JavaDoc for Backend [_**link to javadocs**_](https://github.com/justahoot/DoggyMatch/tree/main/Documents/javaDocsBackend/)
+# Background
+
+#### 3_RK_1 DoggyMatch Submission
+
+**COM S 309 Group 3_RK_1:** Software Development Practices: an introduction to Git, Springboot, Android Studio, Mockito Testing.
+
+**Project Outcomes:** Learning to use tools useful to software development experience.
+
+## Team
+
+### **Corbin Graham**
+
+##### Frontend Developer, Product Design
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Experience:** COM S 227, COM S 228
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Classification:** Sophomore
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Outcomes:** Git, JSON, Mockito, Android Studio, API Libraries, Design Patterns
+
+### **Mark Gores**
+
+##### Frontend Developer, DBC
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Experience:** COM S 227, COM S 228, COM S 311
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Classification:** Junior
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Outcomes:** Git, JSON, Android Studio, API Libraries, Mockito
+
+### **Diego Saavedra**
+
+##### Backend Developer, Algorithms
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Experience:** COM S 227, COM S 228
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Classification:** Sophomore
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Outcomes:** Git, Spring boot, Mockito
+
+### **Peyton Arbuckle**
+
+##### Backend Developer, MySQL and REST
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Experience:** COM S 227, COM S 228
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Classification:** Sophomore
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Outcomes:** Spring boot, Mockito, WebSockets
 
 -----------------------------------------------------
 ###### BE Documentation by Diego Saavedra
 
 ###### FE Documentation by Mark Gores
 
-###### MD by Corbin Graham
+###### MD/Images by Corbin Graham
 -----------------------------------------------------
